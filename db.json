@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "id": "a596",
+      "name": "Ahmed",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "387b",
+      "email": "saramohsen0901@gmail.com",
+      "password": "123",
+      "isAdmin": true
+    },
+    {
+      "id": "14c1",
+      "email": "admin@example.org",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": "89ae",
+      "email": "saramohsen0901@gmail.com",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": "cab0",
+      "email": "saramohsen0901@gmail.com",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": "450a",
+      "email": "sara@gmail.com",
+      "password": "12345",
+      "isAdmin": true
+    },
+    {
+      "id": "6d17",
+      "email": "lala@gmail.com",
+      "password": "lala",
+      "isAdmin": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Updated Name",
+      "price": 699.99,
+      "description": "Latest smartphone with amazing features",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=60",
+      "category": "electronics"
+    },
+    {
+      "id": "2",
+      "name": "Laptop Pro",
+      "price": 1299.99,
+      "description": "Powerful laptop for professionals",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60",
+      "category": "electronics"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "description": "High-quality wireless headphones",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+      "category": "accessories"
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch 4",
+      "price": 249.99,
+      "description": "Stay connected with this sleek smartwatch",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&auto=format&fit=crop&q=60",
+      "category": "wearables"
+    },
+    {
+      "id": "5",
+      "name": "4K Ultra HD TV",
+      "price": 899.99,
+      "description": "Experience stunning visuals with this 4K TV",
+      "image": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_1100,f_auto,q_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/c0f32290-4766-11ee-80cd-4a0290348580.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "6",
+      "name": "Gaming Keyboard",
+      "price": 99.99,
+      "description": "Mechanical keyboard designed for gamers",
+      "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&auto=format&fit=crop&q=60",
+      "category": "accessories"
+    },
+    {
+      "id": "7",
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "description": "Portable speaker with excellent sound quality",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&auto=format&fit=crop&q=60",
+      "category": "accessories"
+    },
+    {
+      "id": "8",
+      "name": "Fitness Tracker",
+      "price": 129.99,
+      "description": "Track your fitness goals with this advanced tracker",
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/06/fitnesstrackers-2048px-09819-2x1-1.jpg?width=1024&quality=75&crop=2:1&auto=webp",
+      "category": "wearables"
+    },
+    {
+      "id": "9",
+      "name": "DSLR Camera",
+      "price": 999.99,
+      "description": "Capture stunning photos with this professional camera",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop&q=60",
+      "category": "electronics"
+    },
+    {
+      "id": "10",
+      "name": "Smart Phone",
+      "price": 149.99,
+      "description": "Enjoy immersive sound with noise-canceling technology",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=60",
+      "category": "accessories"
+    },
+    {
+      "id": "e73c",
+      "name": "smart watch",
+      "price": "250",
+      "description": "ssssssssssssss",
+      "image": "https://s.alicdn.com/@sc04/kf/H1cd91c612f2240dab2943bbd8cfbe48aH.jpg_720x720q50.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "2",
+      "name": "Laptop Pro",
+      "price": 1299.99,
+      "description": "Powerful laptop for professionals",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60",
+      "category": "electronics"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
