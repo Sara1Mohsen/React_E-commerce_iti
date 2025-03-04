@@ -1,0 +1,57 @@
+{
+    "users": [
+        {
+            "id": "a596",
+            "name": "Ahmed",
+            "role": "admin",
+            "email": "admin@gmail.com",
+            "password": "admin123"
+        }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone X",
+        "price": 699.99,
+        "description": "Latest smartphone with amazing features",
+        "image": "https://placehold.co/300x200",
+        "category": "electronics"
+      },
+      {
+        "id": 2,
+        "name": "Laptop Pro",
+        "price": 1299.99,
+        "description": "Powerful laptop for professionals",
+        "image": "https://placehold.co/300x200",
+        "category": "electronics"
+      },
+      {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 199.99,
+        "description": "High-quality wireless headphones",
+        "image": "https://placehold.co/300x200",
+        "category": "accessories"
+      }
+      ,
+      {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 199.99,
+        "description": "High-quality wireless headphones",
+        "image": "https://placehold.co/300x200",
+        "category": "accessories"
+      }
+      ,
+      {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 199.99,
+        "description": "High-quality wireless headphones",
+        "image": "https://placehold.co/300x200",
+        "category": "accessories"
+      }
+    ],
+    "cart": [],
+    "orders": []
+  }
